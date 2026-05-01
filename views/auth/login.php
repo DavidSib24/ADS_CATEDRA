@@ -52,13 +52,7 @@
                     </button>
                 </form>
 
-                <div class="mt-6 bg-blue-50 rounded-lg p-4 border border-blue-100">
-                    <h3 class="text-sm font-semibold text-blue-800 mb-2">Credenciales de acceso (Semilla):</h3>
-                    <div class="text-sm text-blue-700 font-mono space-y-1">
-                        <p><span class="font-semibold text-blue-800">Admin:</span> admin@medcare.com / Admin1234!</p>
-                        <p><span class="font-semibold text-blue-800">Doctor:</span> doctor@medcare.com / Doctor1234!</p>
-                    </div>
-                </div>
+
 
                 <div class="text-center mt-6">
                     <p class="text-slate-600 text-sm">
